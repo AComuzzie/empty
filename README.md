@@ -46,3 +46,14 @@ Your group will use everything you’ve learned throughout this course to create
 * Have a clean repository that meets quality coding standards (file structure, naming conventions, best practices for class and id naming conventions, indentation, high-quality comments, and so on).
 
 * Have a high-quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
+
+## Usage 
+
+After accessing the app, the user will then log in or sign up, depending on if they have an account already or not.
+Once logged in, the user will then be able to add a new workout from their homepage.
+When the "add workout" button is pushed, a form is pulled up and the user is prompted to fill out all fields.
+After the workout is added, the user is taken back to the homepage where they will see the newly added workout.
+The user can then click on the individual workout if they would like to edit or delete the submission.
+
+## Credits
+
