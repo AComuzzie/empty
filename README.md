@@ -13,8 +13,8 @@ Git-Fit is an app that is used by recording your personal workout/excercise info
 
 ## Table of Contents
 
-* [Usage] (#Usage)
-* [Acceptance Criteria] (##Acceptance Criteria)
+- [Usage] (#Usage)
+- [Acceptance Criteria] (##Acceptance Criteria)
 * [Credits] (#Credits)
 * [License] (#License)
 
