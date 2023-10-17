@@ -60,6 +60,11 @@ Your group will use everything you’ve learned throughout this course to create
 
 ## Credits
 
+- Andrew Evans
+- Adrienne Kecskes
+- Marialda Cabral
+- Andrew Comuzzie
+
 ## License
 
 MIT
