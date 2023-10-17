@@ -1,4 +1,6 @@
-# Git - Fit 
+
+![GitFitLogo](client/public/logoShape.png)
+
 
 ## Description
 
