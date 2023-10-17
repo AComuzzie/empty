@@ -57,3 +57,6 @@ The user can then click on the individual workout if they would like to edit or 
 
 ## Credits
 
+## License
+
+MIT
